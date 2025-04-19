@@ -26,13 +26,6 @@
             <div class="col-md-6">
                 <p class="mb-0">Axleshift © {{ date('Y') }}. All rights reserved.</p>
             </div>
-            <div class="col-md-6 text-md-end">
-                <ul class="list-unstyled d-flex justify-content-md-end">
-                    <li class="ms-3"><a href="https://facebook.com" class="text-dark"><i class="bi bi-facebook"></i></a></li>
-                    <li class="ms-3"><a href="https://twitter.com" class="text-dark"><i class="bi bi-twitter"></i></a></li>
-                    <li class="ms-3"><a href="https://linkedin.com" class="text-dark"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
-            </div>
         </div>
     </div>
 </footer>
